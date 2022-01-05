@@ -65,7 +65,7 @@ export default function ToDoList() {
               />
             ) : (
               <input
-                type="checkbox"
+                type="cssheckbox"
                 checked={false}
                 onClick={() => onCheck(i)}
               />
