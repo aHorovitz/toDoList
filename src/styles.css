@@ -1,0 +1,15 @@
+body {
+  background-color: #869ecf;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+ol {
+  column-count: 3;
+  column-width: 33%;
+  -moz-column-count: 3;
+  -moz-column-width: 33%;
+  -webkit-column-count: 3;
+  -webkit-column-width: 33%;
+  /* etc., etc. */
+}
